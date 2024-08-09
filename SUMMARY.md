@@ -2,9 +2,9 @@
 
 * [WTF is 今晚打老虎](README.md)
 
-## Quick 快速入门系列 <a href="#quick-joinweb3" id="quick-joinweb3"></a>
+## Quick 快速入门系列 <a href="#quick-join-web3" id="quick-join-web3"></a>
 
-* [NFT新人百宝箱(ETH版本)](quick-joinweb3/how-to-be-nfts-degen-eth.md)
+* [NFT新人百宝箱(ETH版本)](quick-join-web3/how-to-be-nfts-degen-eth.md)
 
 ## 实用工具和链接 <a href="#web3-tools" id="web3-tools"></a>
 
@@ -13,14 +13,17 @@
 
 ## ETH-以太坊生态 <a href="#evm-eth-ecosystem" id="evm-eth-ecosystem"></a>
 
-* [NFT(暂且没落)](evm-eth-ecosystem/nft-tools.md)
-* [Defi](evm-eth-ecosystem/defi.md)
+* [钱包与工具](evm-eth-ecosystem/wallet-tools.md)
+* [Defi: 2024](evm-eth-ecosystem/defi.md)
+* [NFT: 2021-2023](evm-eth-ecosystem/nft-tools.md)
 
 ## BTC-比特币生态 <a href="#btc-ecosystem" id="btc-ecosystem"></a>
 
-* [铭文](btc-ecosystem/inscription-brc20/README.md)
+* [钱包与工具](btc-ecosystem/wallet-tools.md)
+* [Runes-符文](btc-ecosystem/runes.md)
+* [BRC20-铭文](btc-ecosystem/inscription-brc20/README.md)
   * [板块生态](btc-ecosystem/inscription-brc20/ecosystem.md)
-* [ARC-20](btc-ecosystem/arc20/README.md)
+* [ARC20-染色币](btc-ecosystem/arc20/README.md)
   * [板块生态](btc-ecosystem/arc20/ecosystem.md)
   * [Linux/Mac配置环境和启动挖币](btc-ecosystem/arc20/linux-mac-deploy-mint-token.md)
   * [Linux/Mac下挖NFT和Realm](btc-ecosystem/arc20/linux-mac-mint-nft.md)
@@ -28,4 +31,5 @@
 
 ## SOL-索拉纳生态 <a href="#sol-ecosystem" id="sol-ecosystem"></a>
 
-* [Untitled](sol-ecosystem/untitled.md)
+* [钱包与工具](sol-ecosystem/wallet-tools.md)
+* [DeFi](sol-ecosystem/defi.md)
