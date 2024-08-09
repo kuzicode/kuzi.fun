@@ -2,9 +2,9 @@
 description: 主要是Ethereum相关NFT工具，2021-2022盛况。
 ---
 
-# NFT工具集
+# NFT(暂且没落)
 
-#### NFT交易市场&#x20;
+## NFT交易市场&#x20;
 
 MagicEden: [https://magiceden.io/ethereum](https://magiceden.io/ethereum)
 
@@ -20,7 +20,7 @@ nfex: [https://www.nfex.io/](https://www.nfex.io/)
 
 
 
-#### NFT Analysis/Trade Tool&#x20;
+## NFT Analysis/Trade Tool&#x20;
 
 nftnerds: [https://app.nftnerds.ai/trending](https://app.nftnerds.ai/trending)&#x20;
 
@@ -30,7 +30,7 @@ magically: [https://magically.gg/trends](https://magically.gg/trends)&#x20;
 
 
 
-#### NFT 实用工具&#x20;
+## NFT 实用工具&#x20;
 
 查看当前ETH链上实时gas: [https://www.blocknative.com/gas-estimator](https://www.blocknative.com/gas-estimator)&#x20;
 
@@ -42,7 +42,7 @@ ERC Token分发: [https://www.derisk.tools/](https://www.derisk.tools/)&#x20;
 
 
 
-#### 免费 Mint-tool&#x20;
+## 免费 Mint-tool&#x20;
 
 Catchmint: [https://catchmint.xyz/](https://catchmint.xyz/)&#x20;
 
@@ -50,7 +50,7 @@ MCT: [https://mct.xyz/nft/minting](https://mct.xyz/nft/minting)&#x20;
 
 
 
-#### 收费Bot
+## 收费Bot
 
 Abot: [https://www.nftsniper.club/](https://www.nftsniper.club/)&#x20;
 
