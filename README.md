@@ -15,7 +15,7 @@ layout:
 
 # WTF is 今晚打老虎
 
-个人向的加密货币投资日记，目的地：[https://github.com/kuzicode/kuziclub](https://github.com/kuzicode/kuziclub)
+个人向的Web3前线投资日记，目的地：[https://kuziclub.gitbook.io/kuziclub/](https://kuziclub.gitbook.io/kuziclub/)
 
 「今晚打老虎」 出自《上海滩赌圣》里星爷赌桌决战的Degen身份。Degen = 赌狗，无论是赌桌还是加密赌场，这条路上有的人可以赢得满载而归，但更多人输得一无所有。借用 《食神》 来比拟："这个世界上根本就没有 「赌圣」，或者说人人都是 「赌圣」  。"
 
