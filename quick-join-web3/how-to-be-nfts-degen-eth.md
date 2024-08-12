@@ -10,9 +10,15 @@ Metamask 小狐狸钱包。存放并交易你的eth：
 
 {% embed url="https://metamask.io/" %}
 
-Blocknative。实时gas监控，打狗必盯，靠它决定要不要调gas来加速。
+Gasnow。MCT出品，支持多链，实时gas监控，打狗必盯，靠它决定要不要调gas来加速。
+
+{% embed url="https://gasnow.io" %}
+
+备选 blocknative
 
 {% embed url="https://www.blocknative.com/gas-extension" %}
+
+
 
 ### Step2 收藏好NFT交易所
 
