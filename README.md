@@ -15,9 +15,9 @@ layout:
 
 # WTF is 今晚打老虎
 
-个人向的Web3前线投资日记，目的地：[https://kuziclub.gitbook.io/kuziclub/](https://kuziclub.gitbook.io/kuziclub/)
+个人向的，Web3 Degen 战斗训练基地，坐标：[https://kuziclub.gitbook.io/kuziclub/](https://kuziclub.gitbook.io/kuziclub/)
 
-「今晚打老虎」 出自《上海滩赌圣》里星爷赌桌决战的Degen身份。Degen = 赌狗，无论是赌桌还是加密赌场，这条路上有的人可以赢得满载而归，但更多人输得一无所有。借用 《食神》 来比拟："这个世界上根本就没有 「赌圣」，或者说人人都是 「赌圣」  。"
+Degen = 赌狗。「今晚打老虎」 作为  《上海滩赌圣》 里星爷赌桌决战的赌狗身份，实则也是在座的我们。
 
 <div data-full-width="true">
 
@@ -25,14 +25,15 @@ layout:
 
 </div>
 
-来到加密赌场都希望自己可以成为拿下比赛的 「今晚打老虎」 ，运气或者机遇是必要的，但机会来的时候，我们必须要做好抓住它的机会。
+机会留给有准备的赌狗，来到大赌场都希望自己可以成为拿下比赛的 「今晚打老虎」 ，
 
-由于主业是Defier和Dev，因此资料库计划在业余保持更新，鞭策一下自己和xdm不要躺平：
+作为Dev/DeFi选手主业在身，Dengen训练基地只能日常抽空更新，鞭策自己和一起玩的哥们不要躺平，大概这样子来记录内容：
 
-* 不限于 DeFi/Miner 等的Web3投资日记和实战在用的工具在这里记录存档；
-* 实效性较高的链上 Alpha 在推特随心情更新：[https://x.com/kuzibtc](https://x.com/kuzibtc)
+* 不限于任何板块的Web3投资日记，新的机会在哪里就飞向哪里；
+* 眼花缭乱的、对实战有用的工具；
+* 实效性较高的链上 Alpha 也会在推特随缘更新：[https://x.com/kuzibtc](https://x.com/kuzibtc)
 
-Just have fun.
+Just have fun. 放松心态，不要强求，保持学习新东西。
 
 
 

@@ -1,12 +1,13 @@
 # Table of contents
 
 * [WTF is 今晚打老虎](README.md)
+* [💥 近期在玩](cooking.md)
 
-## Quick 快速入门系列 <a href="#quick-join-web3" id="quick-join-web3"></a>
+## ⚡ Quick 快速入门系列 <a href="#quick-join-web3" id="quick-join-web3"></a>
 
 * [NFT新人百宝箱(ETH版本)](quick-join-web3/how-to-be-nfts-degen-eth.md)
 
-## 实用工具和链接 <a href="#web3-tools" id="web3-tools"></a>
+## 🎮 实用工具和链接 <a href="#web3-tools" id="web3-tools"></a>
 
 * [钱包安全](web3-tools/wallet-security.md)
 * [RPC节点](web3-tools/rpc-node.md)
