@@ -10,23 +10,31 @@ description: 相关的文章和实用工具，保护钱包是加密世界游玩�
 
 ### Wallet Security Tool 钱包安全工具
 
-Ethscan 取消可疑合约的授权
+Ethscan 取消可疑合约的授权:
 
-{% embed url="https://etherscan.io/tokenapprovalchecker" %}
+[https://etherscan.io/tokenapprovalchecker](https://etherscan.io/tokenapprovalchecker)
+
+###
 
 ### Revoke 取消可疑合约的授权
 
-{% embed url="https://revoke.cash/zh" %}
+[https://revoke.cash/zh](https://revoke.cash/zh)
+
+
 
 ### Pocketuniverse 钱包交易安全插件
 
-{% embed url="https://www.pocketuniverse.app/" %}
+必备。链上安全 + 刷推、网站安全提示
+
+[https://www.pocketuniverse.app/](https://www.pocketuniverse.app/)
+
+###
 
 ### Delegate 指定监护人钱包
 
-{% embed url="https://delegate.cash/" %}
+主要用在NFT，一个钱包作为金库，一个钱包来托管进行链上交互：
 
-
+[https://delegate.xyz/](https://delegate.xyz/)
 
 
 
