@@ -30,6 +30,7 @@
 * [Defi: 2024](evm-eth-ecosystem/defi.md)
 * [NFT: 2021-2023](evm-eth-ecosystem/nft-tools.md)
 
-## SOL-索拉纳生态 <a href="#sol-ecosystem" id="sol-ecosystem"></a>
+## 其他链生态 <a href="#other-chains-ecosystem" id="other-chains-ecosystem"></a>
 
-* [DeFi](sol-ecosystem/defi.md)
+* [SOL: Solanaの夏](other-chains-ecosystem/solana.md)
+* [TON: 电报链](other-chains-ecosystem/ton-chain.md)
