@@ -6,7 +6,7 @@ description: 主要面对 EVM(ETH) 生态和 SOL 生态的 Memecoin
 
 
 
-今年对于不同的板块热度转换很快，但大体都离不开 ETH 主链以及Base链(ETH L2)、SOL主链生态。
+今年对于不同的板块热度转换很快，但大体都离不开 ETH 主链以及 Base 链 (ETH L2) 、SOL 主链生态。
 
 ### Step1 下载钱包并准备子弹
 
@@ -22,27 +22,31 @@ ETH：0xabc126255a6a5efa4ef75eb978a92639da181000
 
 SOL：3dV472mwJ3oxrRYeempSvmnU2AbiRhQGLe1DaggejeG1
 
-提币 -> 输入钱包地址，等候到账。
+提币 -> 输入钱包地址，等候到账。后续在链上交易完之后可以在自己钱包里找到对应的币种。
 
 
 
 ### Step2 交易(Swap)与盯盘
 
-### 1. Swap网站
+### 1. Swap交易网站
 
-ETH主要的池子在Uniswap:
+交易，以币换币，用ETH或SOL买对应链上的shitcoin，啊不，goldcoin。一般进去粘贴Token的合约代码就能找到对应币种和池子，然后点一点把钱包召唤出来就能交易了。
+
+ETH 主要的池子在 Uniswap:
 
 {% embed url="https://app.uniswap.org/swap" %}
 
-SOL现在有分内盘和外盘的玩法，内盘一般是pump.fun:
+SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun:
 
 {% embed url="https://pump.fun/board" %}
 
-外盘的池子一般在 Raydium:
+外盘的池子一般在 Raydium :
 
 {% embed url="https://raydium.io/swap/" %}
 
+或者在OKX的聚合Swap里，更省事：
 
+{% embed url="https://www.okx.com/zh-hans/web3/dex-swap" %}
 
 ### 2. 多链盯盘网站(一般内含Swap)，输入Token合约代码就能找到。
 
