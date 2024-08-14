@@ -72,6 +72,8 @@ SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun，外盘的�
 
 
 
+更进阶的工具可以在这里折腾:  [memecoin-tools.md](../web3-tools/memecoin-tools.md "mention")
+
 
 
 
