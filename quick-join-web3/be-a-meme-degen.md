@@ -36,11 +36,9 @@ ETH 主要的池子在 Uniswap:
 
 {% embed url="https://app.uniswap.org/swap" %}
 
-SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun:
+SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun，外盘的池子一般在 Raydium :
 
 {% embed url="https://pump.fun/board" %}
-
-外盘的池子一般在 Raydium :
 
 {% embed url="https://raydium.io/swap/" %}
 
@@ -52,8 +50,6 @@ SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun:
 
 {% embed url="https://dexscreener.com/ethereum" %}
 
-{% embed url="https://gmgn.ai/trend/S183xXgRo?chain=sol" %}
-
 ### Step3 进阶：用交易BOT来增加冲锋的速度
 
 1. telegram里使用的交易机器人
@@ -62,13 +58,9 @@ SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun:
 
 ### 1. eth bot&#x20;
 
-pepeboost
-
 {% embed url="https://t.me/pepeboost_swap_bot?start=ref_0nbz6n" %}
 
 ### 2. sol bot&#x20;
-
-pepeboost:&#x20;
 
 {% embed url="https://t.me/pepeboost_sol_bot?start=ref_0x6t8l" %}
 
