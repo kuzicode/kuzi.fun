@@ -32,23 +32,26 @@ SOL：3dV472mwJ3oxrRYeempSvmnU2AbiRhQGLe1DaggejeG1
 
 交易，以币换币，用ETH或SOL买对应链上的shitcoin，啊不，goldcoin。一般进去粘贴Token的合约代码就能找到对应币种和池子，然后点一点把钱包召唤出来就能交易了。
 
-ETH 主要的池子在 Uniswap:
+ETH 主要的池子在 Uniswap:&#x20;
 
-{% embed url="https://app.uniswap.org/swap" %}
+[https://app.uniswap.org/swap](https://app.uniswap.org/swap)
 
-SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun，外盘的池子一般在 Raydium :
+SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun，外盘的池子一般在 Raydium：
 
-{% embed url="https://pump.fun/board" %}
+* [https://pump.fun/board](https://pump.fun/board)
+* [https://raydium.io/swap/](https://raydium.io/swap/)
 
-{% embed url="https://raydium.io/swap/" %}
+或者在OKX的聚合Swap里直接粘贴合约代码，操作更省事：
 
-或者在OKX的聚合Swap里，更省事：
+[https://www.okx.com/zh-hans/web3/dex-swap](https://www.okx.com/zh-hans/web3/dex-swap)
 
-{% embed url="https://www.okx.com/zh-hans/web3/dex-swap" %}
+
 
 ### 2. 多链盯盘网站(一般内含Swap)，输入Token合约代码就能找到。
 
-{% embed url="https://dexscreener.com/ethereum" %}
+[https://dexscreener.com/](https://dexscreener.com/ethereum)
+
+
 
 ### Step3 进阶：用交易BOT来增加冲锋的速度
 
@@ -56,13 +59,19 @@ SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun，外盘的�
 2. 直接创建或者绑定钱包使用，
 3. 发token合约代码就能进行交易&#x20;
 
-### 1. eth bot&#x20;
+### eth bot
 
-{% embed url="https://t.me/pepeboost_swap_bot?start=ref_0nbz6n" %}
+pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n)
 
-### 2. sol bot&#x20;
+### base bot
 
-{% embed url="https://t.me/pepeboost_sol_bot?start=ref_0x6t8l" %}
+SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3\_bot?start=ref=1358182830)
+
+### sol bot&#x20;
+
+pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l)
+
+
 
 
 
