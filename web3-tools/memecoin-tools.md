@@ -1,3 +1,7 @@
+---
+description: Bot大多有邀请机制，链接后面是我的邀请码。
+---
+
 # Meme交易工具
 
 ### DexScreen
@@ -6,7 +10,7 @@
 
 [https://dexscreener.com/solana](https://dexscreener.com/solana)
 
-### GM.GN
+### GMGN
 
 支持eth/sol，连接钱包，K线 + 聪明钱跟踪
 
