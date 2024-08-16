@@ -26,13 +26,10 @@ Photon：支持eth/sol，需创建新degen钱包，快捷交易
 
 TG便捷交互，一键快捷买卖，pepeboost支持挂单。
 
-ETH - pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n)
-
-BASE - SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3\_bot?start=ref=1358182830)
-
-SOL - pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l)
-
-TON - tontrade: [https://t.me/tontrade?start=iZgNvfuE](https://t.me/tontrade?start=iZgNvfuE)
+* ETH - Pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n)
+* BASE - SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3\_bot?start=ref=1358182830)
+* SOL - Pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l)
+* TON - TonTrade: [https://t.me/tontrade?start=iZgNvfuE](https://t.me/tontrade?start=iZgNvfuE)
 
 
 
