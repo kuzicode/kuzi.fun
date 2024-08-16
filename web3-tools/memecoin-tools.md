@@ -4,21 +4,21 @@ description: Bot大多有邀请机制，链接后面是我的邀请码。
 
 # Meme交易工具
 
-### DexScreen
+### 盯盘工具 &  便捷交易
 
-多链看板。主要用来看K线，便捷Swap入口
+DexScreen：多链看板，主要用来看K线，便捷Swap。
 
-[https://dexscreener.com/solana](https://dexscreener.com/solana)
+[https://dexscreener.com/](https://dexscreener.com/solana)
 
-### GMGN
+Ave.ai: 多链看板，便捷Swap，有手机端APP。
 
-支持eth/sol，连接钱包，K线 + 聪明钱跟踪
+[https://ave.ai/](https://ave.ai/)
 
-[https://gmgn.ai/trend/S183xXgRo?chain=sol](https://gmgn.ai/trend/S183xXgRo?chain=sol)
+GMGN：支持eth/sol，连接钱包，K线 + 聪明钱跟踪
 
-### Photon by tinyastro
+[https://gmgn.ai/trend/S183xXgRo](https://gmgn.ai/trend/S183xXgRo?chain=sol)
 
-支持eth/sol，需创建新degen钱包，快捷交易
+Photon：支持eth/sol，需创建新degen钱包，快捷交易
 
 [https://photon.tinyastro.io/zh/trending](https://photon.tinyastro.io/zh/trending)
 
