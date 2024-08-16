@@ -26,21 +26,13 @@ description: Bot大多有邀请机制，链接后面是我的邀请码。
 
 TG便捷交互，一键快捷买卖，pepeboost支持挂单。
 
-### eth bot
+ETH - pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n)
 
-pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n)
+BASE - SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3\_bot?start=ref=1358182830)
 
-### base bot
+SOL - pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l)
 
-SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3\_bot?start=ref=1358182830)
-
-### sol bot&#x20;
-
-pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l)
-
-bonk: [https://t.me/bonkbot\_bot?start=ref\_e1baf](https://t.me/bonkbot\_bot?start=ref\_e1baf)&#x20;
-
-bananagun: [https://t.me/Banana\_Gun\_Portal](https://t.me/Banana\_Gun\_Portal)
+TON - tontrade: [https://t.me/tontrade?start=iZgNvfuE](https://t.me/tontrade?start=iZgNvfuE)
 
 
 
