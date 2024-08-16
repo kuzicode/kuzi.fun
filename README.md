@@ -15,7 +15,14 @@ layout:
 
 # WTF is 今晚打老虎
 
-这里是个人向的 Web3 链上资料库，坐标：[kuzi.fun](https://www.kuzi.fun/) 👈🏻&#x20;
+这里是个人向的、用以链上 Degen 修炼的 Web3 资料库，坐标：[kuzi.fun](https://www.kuzi.fun/) 👈🏻&#x20;
+
+两个方向来写东西：
+
+* 链上实用工具和链接，以及归纳平时折腾各个板块的投资笔记；
+* 新人入坑教学资料，很多刚玩链上的朋友反复问到的问题和工具需求，一并放在这里。
+
+内容不限于 Miner / Defi / Meme / BTC生态.. 哪里有赚钱效应我就出现哪里。
 
 <div data-full-width="true">
 
@@ -23,11 +30,9 @@ layout:
 
 </div>
 
-主业较忙(Miner + Defier)，资料库抽空更新，鞭策自己和一起玩的哥们不要躺平：
+主业 Web3 技术仔 + 菜鸟投研选手，资料库不定时更新，鞭策自己和一起玩的哥们不要躺平。
 
-* 不限于任何板块的 Web3 投资日记，新的机会在哪里就飞向哪里；
-* 对实战有用的工具；
-* 实效性较高的链上 Alpha 也会在推特随缘更新：[https://x.com/kuzibtc](https://x.com/kuzibtc)
+Alpha 随缘发布在推特: [@kuzibtc](https://x.com/kuzibtc)，只交朋友，没有收费，不拉群组。
 
 Have fun.  多多关注新东西。
 
