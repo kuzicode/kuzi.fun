@@ -2,7 +2,7 @@
 description: Update on 2024.08.20
 ---
 
-# 20240820 Babylon P1 主网质押
+# 20240820: Babylon P1 主网质押
 
 ### **玩法与规则**
 

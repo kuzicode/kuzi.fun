@@ -1,9 +1,9 @@
 # Table of contents
 
 * [WTF is 今晚打老虎](README.md)
-* [🔥 近期正在玩](cooking/README.md)
-  * [20240820 Babylon P1 主网质押](cooking/20240820-babylon-p1-zhu-wang-zhi-ya.md)
-  * [20240816 阶段性复盘](cooking/review-20240816.md)
+* [🔥 近期正在玩](cooking.md)
+  * [20240820: Babylon P1 主网质押](cooking/babylon-p1.md)
+  * [20240816: 阶段性复盘](the-way-to-the-moon.md)
 
 ## ⚡ Quick 快速入门系列 <a href="#quick-join-web3" id="quick-join-web3"></a>
 
