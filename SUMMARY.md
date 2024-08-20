@@ -2,7 +2,7 @@
 
 * [WTF is 今晚打老虎](README.md)
 * [🔥 近期正在玩](cooking.md)
-* [🤔 复盘和计划](the-way-to-the-moon.md)
+* [🤔 阶段性复盘](the-way-to-the-moon.md)
 
 ## ⚡ Quick 快速入门系列 <a href="#quick-join-web3" id="quick-join-web3"></a>
 
