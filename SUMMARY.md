@@ -3,7 +3,6 @@
 * [WTF is 今晚打老虎](README.md)
 * [🔥 近期正在玩](cooking.md)
   * [20240820: Babylon P1 主网质押](cooking/babylon-p1.md)
-* [DeFi](defi.md)
 
 ## ⚡ Quick 快速入门系列 <a href="#quick-join-web3" id="quick-join-web3"></a>
 
@@ -12,7 +11,7 @@
 
 ## 🎮 实用工具和链接 <a href="#web3-tools" id="web3-tools"></a>
 
-* [Defi 工具](web3-tools/tools.md)
+* [Defi工具](web3-tools/tools.md)
 * [Meme交易工具](web3-tools/memecoin-tools.md)
 * [Web3钱包](web3-tools/wallet-tools.md)
 * [钱包安全工具](web3-tools/wallet-security.md)

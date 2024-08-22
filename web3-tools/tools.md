@@ -1,4 +1,4 @@
-# Defi 工具
+# Defi工具
 
 ### 看市场数据
 
@@ -24,9 +24,7 @@
 ### 链上工具[ ](http://arkhamintelligence.com/https://debank.com/https://sosovalue.xyz/assets/etf/us-btc-spot)
 
 * 跨链桥 小飞碟：[https://app.orbiter.finance/](https://app.orbiter.finance/)
-* 跨链桥 OKX: [https://www.okx.com/zh-hans/web3/dex-swap/bridge](https://www.okx.com/zh-hans/web3/dex-swap/bridge)
-
-
+* 跨链聚合器 OKX: [https://www.okx.com/zh-hans/web3/dex-swap/bridge](https://www.okx.com/zh-hans/web3/dex-swap/bridge)
 
 
 
