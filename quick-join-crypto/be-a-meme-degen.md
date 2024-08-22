@@ -81,7 +81,7 @@ pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pep
 
 
 
-更进阶的工具可以在这里折腾:  [memecoin-tools.md](../web3-tools/memecoin-tools.md "mention")
+更进阶的工具可以在这里折腾:  [memecoin-tools.md](../tools/memecoin-tools.md "mention")
 
 
 
