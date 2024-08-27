@@ -12,21 +12,26 @@ description: Ton链，Telegram 电报链，今年以APP内置小游戏为主
 
 [https://www.tonstat.com/](https://www.tonstat.com/)&#x20;
 
-### 常用swap
-
-* [https://dedust.io/swap/ton/fish](https://dedust.io/swap/ton/fish)&#x20;
-* [https://app.ston.fi/swap](https://app.ston.fi/swap)&#x20;
-
-### 看k线
+### 看K线
 
 * [https://www.geckoterminal.com/ton/pools](https://www.geckoterminal.com/ton/pools)&#x20;
 * [https://dexscreener.com/ton](https://dexscreener.com/ton)&#x20;
 
-### 常用钱包：&#x20;
+### 常用Swap
 
-[https://tonkeeper.com/](https://tonkeeper.com/)&#x20;
+* [https://app.ston.fi/swap](https://app.ston.fi/swap)&#x20;
+* [https://dedust.io/swap/](https://dedust.io/swap/ton/fish)
 
-### 发射台（目前项目不多）:&#x20;
+### 常用钱包
+
+* [https://tonkeeper.com/](https://tonkeeper.com/)
+* [https://www.okx.com/web3](https://www.okx.com/web3)
+
+### Trading Bot
+
+[https://t.me/tontrade?start=iZgNvfuE](https://t.me/tontrade?start=iZgNvfuE)
+
+### 发射台:
 
 [https://tonraffles.app/nft/launchpad](https://tonraffles.app/nft/launchpad)&#x20;
 
