@@ -1,12 +1,10 @@
-# 20240828: 近期各链Defi玩法
+# 20240828: 各链Defi近期玩法
 
 仓位这块还是继续蓝筹四件套，从大到小：BTC、ETH、SOL 、BNB。
 
-然后这里面再拿一部分去做Defi生息：
+然后这里面再拿一部分去做Defi生息(但相比上半年收益预期缩水太多了)。
 
 ### 稳定币
-
-年化期望 = 10-20%
 
 主要去向是 Ethena的 USDE/sUSDE，锁定 USDE 拿 $ENA 积分或者拿着 sUSDE 吃协议年化；
 
@@ -16,6 +14,8 @@
 
 * Ethena: [https://app.ethena.fi/join/0srx3](https://app.ethena.fi/join/0srx3)
 * Pendle: [https://app.pendle.finance/trade/pools](https://app.pendle.finance/trade/pools)
+
+年化期望 = 10-20%
 
 #### ETH&#x20;
 
@@ -35,7 +35,7 @@ Solv: [https://app.solv.finance/points/F4PMN5](https://app.solv.finance/points/F
 
 围绕着 Babylon 为主的吃积分预期，第三方质押平台是solv、pumpBTC等。
 
-期望做个10-20%的年化
+期望做个 10-20% 的年化
 
 #### SOL&#x20;
 

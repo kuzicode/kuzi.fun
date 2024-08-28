@@ -4,20 +4,20 @@
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
-* [20240828: 近期各链Defi玩法](cooking/20240828\_defi.md)
+* [20240828: 各链Defi近期玩法](cooking/defi-cooking.md)
 * [20240820: Babylon P1 主网质押](cooking/babylon-p1.md)
 
 ## 工具和指南 <a href="#tools-hub" id="tools-hub"></a>
 
-* [Quick 快速入门系列](tools-hub/quick-join-crypto/README.md)
-  * [链上Meme币玩家必备](tools-hub/quick-join-crypto/be-a-meme-degen.md)
-  * [NFT新人百宝箱](tools-hub/quick-join-crypto/how-to-be-nfts-degen-eth.md)
 * [Web3 常用工具](tools-hub/web3tools/README.md)
-  * [Defi工具](tools-hub/web3tools/tools.md)
+  * [折腾Defi的工具](tools-hub/web3tools/tools.md)
   * [Meme交易工具](tools-hub/web3tools/memecoin-tools.md)
   * [Web3钱包](tools-hub/web3tools/wallet-tools.md)
   * [安全工具](tools-hub/web3tools/wallet-security.md)
   * [RPC节点](tools-hub/web3tools/rpc-node.md)
+* [Quick 快速入门系列](tools-hub/quick-join-crypto/README.md)
+  * [链上Meme币玩家必备](tools-hub/quick-join-crypto/be-a-meme-degen.md)
+  * [NFT新人百宝箱](tools-hub/quick-join-crypto/how-to-be-nfts-degen-eth.md)
 
 ## 链板块生态 <a href="#chains-ecosystem" id="chains-ecosystem"></a>
 
@@ -29,7 +29,6 @@
     * [Linux/Mac下挖NFT和Realm](chains-ecosystem/btc/atomicals/linux-mac-mint-nft.md)
     * [一些价值探讨备份.20231117](chains-ecosystem/btc/atomicals/learn-20231117.md)
 * [ETH 生态](chains-ecosystem/eth/README.md)
-  * [Defi: 2024](chains-ecosystem/eth/defi.md)
   * [NFT: 2021-2023](chains-ecosystem/eth/nft-tools.md)
 * [其他链生态](chains-ecosystem/others/README.md)
   * [SOL: Solanaの夏](chains-ecosystem/others/solana.md)
