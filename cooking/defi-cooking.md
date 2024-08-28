@@ -1,4 +1,4 @@
-# 20240828: 各链Defi近期玩法
+# 20240828: DeFi 生态近期玩法
 
 仓位这块还是继续蓝筹四件套，从大到小：BTC、ETH、SOL 、BNB。
 
@@ -23,7 +23,7 @@
 
 年化期望 = 10-20%
 
-#### ETH&#x20;
+### ETH&#x20;
 
 在 Lido + EtherFi + Karak 的 Restake 多吃积分或 Pendle-PT 固收，灵活调整；
 
@@ -33,7 +33,7 @@
 
 年化期望 = 10-15%，相比上半年肉少了
 
-#### BTC&#x20;
+### BTC&#x20;
 
 主要放 solvBTC + solvBTC.BBN 拿积分 ，大概30%-50%仓位来做：
 
@@ -43,7 +43,7 @@ Solv: [https://app.solv.finance/points/F4PMN5](https://app.solv.finance/points/F
 
 期望做个 10-20% 的年化
 
-#### SOL&#x20;
+### SOL&#x20;
 
 大部分放 Jito 7-8%年化，一部分买 JLP 做币价缓冲，剩下的放 Solayer 拿积分来博弹性收益。
 
@@ -51,7 +51,7 @@ Solv: [https://app.solv.finance/points/F4PMN5](https://app.solv.finance/points/F
 * JLP: [https://jup.ag/perps-earn](https://jup.ag/perps-earn)
 * Solayer: [https://app.solayer.org/invite/93XBIT](https://app.solayer.org/invite/93XBIT)
 
-#### BNB&#x20;
+### BNB&#x20;
 
 100% 放在 BN 吃新币挖矿等的用户福利，屯币赚周期的钱 + 期间的 BN 理财赋能。
 
