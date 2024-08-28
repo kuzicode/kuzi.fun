@@ -12,7 +12,9 @@
 2. 结合 Pendle 来玩 PT 固收或者 LPT-Pool(固收、积分、$Pendle 三吃)，主要为了随存随取，积分可以随取拿去大跌抄底；
 3. 在 Bybit 交易所里持有 USDE，放账户里就能拿 10-20% 的 USDE 本位年化，每天到账钱包。
 
-也可以考虑少部分放到 Usual (或者用Pendle拿 Usual-PT固收)、PYUSD(但官方补贴好像越来越弱了)。
+从资金灵活性和安全角度来看，2和3都很OK；
+
+此外也可以考虑少部分放到 Usual (或者用Pendle拿 Usual-PT固收)、PYUSD(但官方补贴好像越来越弱了)。
 
 * Ethena: [https://app.ethena.fi/join/0srx3](https://app.ethena.fi/join/0srx3)
 * Bybit：[https://www.bybit.com/invite?ref=2JBW2K](https://www.bybit.com/invite?ref=2JBW2K)
