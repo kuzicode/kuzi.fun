@@ -22,7 +22,7 @@ layout:
 
 <figure><img src=".gitbook/assets/crypto_city.jpeg" alt=""><figcaption></figcaption></figure>
 
-不限于某个板块，哪里有赚钱效应就去哪里掘金；时效性的 Alpha 随缘发推: [@kuzibtc](https://x.com/kuzibtc)，只交朋友，不搞收费，不拉群组。
+不限于某个板块，时效性的 Alpha 节目随缘发推: [@kuzibtc](https://x.com/kuzibtc)
 
 Have fun.  多多关注新东西。
 
