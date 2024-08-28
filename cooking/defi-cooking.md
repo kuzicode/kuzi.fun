@@ -6,13 +6,16 @@
 
 ### 稳定币
 
-主要去向是 Ethena的 USDE/sUSDE，锁定 USDE 拿 $ENA 积分或者拿着 sUSDE 吃协议年化；
+主要去向是 Ethena 的 USDE/sUSDE，几个玩法：
 
-也可以考虑少部分放到 Usual (不流动的部分)、PYUSD(官方补贴好像越来越弱了)。
+1. 锁定 USDE 拿 $ENA Sats (积分)，目的就是博 $ENA  空投，赌收益；
+2. 结合 Pendle 来玩 PT 固收或者 LPT-Pool(固收、积分、$Pendle 三吃)，主要为了随存随取，积分可以随取拿去大跌抄底；
+3. 在 Bybit 交易所里持有 USDE，放账户里就能拿 10-20% 的 USDE 本位年化，每天到账钱包。
 
-以上都可以结合 Pendle 来玩 PT 固收或者 LPT-Pool(固收、积分、$Pendle 三吃)，主要为了随存随取，积分可以随取拿去大跌抄底。
+也可以考虑少部分放到 Usual (或者用Pendle拿 Usual-PT固收)、PYUSD(但官方补贴好像越来越弱了)。
 
 * Ethena: [https://app.ethena.fi/join/0srx3](https://app.ethena.fi/join/0srx3)
+* Bybit：[https://www.bybit.com/invite?ref=2JBW2K](https://www.bybit.com/invite?ref=2JBW2K)
 * Pendle: [https://app.pendle.finance/trade/pools](https://app.pendle.finance/trade/pools)
 
 年化期望 = 10-20%
