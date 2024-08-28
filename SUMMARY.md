@@ -4,13 +4,13 @@
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
-* [20240828: 各链Defi近期玩法](cooking/defi-cooking.md)
+* [20240828: DeFi 生态近期玩法](cooking/defi-cooking.md)
 * [20240820: Babylon P1 主网质押](cooking/babylon-p1.md)
 
 ## 工具和指南 <a href="#tools-hub" id="tools-hub"></a>
 
 * [Web3 常用工具](tools-hub/web3tools/README.md)
-  * [折腾Defi的工具](tools-hub/web3tools/tools.md)
+  * [折腾DeFi的工具](tools-hub/web3tools/tools.md)
   * [Meme交易工具](tools-hub/web3tools/memecoin-tools.md)
   * [Web3钱包](tools-hub/web3tools/wallet-tools.md)
   * [安全工具](tools-hub/web3tools/wallet-security.md)
