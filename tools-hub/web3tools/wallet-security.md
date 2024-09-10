@@ -2,7 +2,7 @@
 description: 相关的文章和实用工具，保护钱包是加密世界游玩的重中之重。
 ---
 
-# 钱包安全工具
+# 安全工具
 
 ### 必看系列：慢雾出品 | 余弦：区块链黑暗森林自救手册
 
@@ -22,13 +22,19 @@ Ethscan 取消可疑合约的授权:
 
 
 
-### Pocketuniverse 钱包交易安全插件
+### 网站检测 + 钱包交易安全插件
 
 必备。链上安全 + 刷推、网站安全提示。
+
+#### Pocketuniverse
 
 官网，无邀请码版本：[https://www.pocketuniverse.app/](https://www.pocketuniverse.app/)
 
 或者进我的邀请链接：[https://](https://www.pocketuniverse.app/)[dash.pocketuniverse.app/ref/4SLY](https://dash.pocketuniverse.app/ref/4SLY)  (积分dashboard，未来发币空投)
+
+#### scamsniffer
+
+[https://www.scamsniffer.io/extension/](https://www.scamsniffer.io/extension/)
 
 
 
