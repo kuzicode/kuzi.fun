@@ -16,29 +16,16 @@ description: 相关的文章和实用工具，保护钱包是加密世界游玩�
 
 ### Wallet Security Tool 钱包安全工具
 
-Ethscan 取消可疑合约的授权:
+#### 取消授权
 
-[https://etherscan.io/tokenapprovalchecker](https://etherscan.io/tokenapprovalchecker)
+* Revoke.cash: [https://revoke.cash/zh](https://revoke.cash/zh)
+* WalletGuard: [https://dashboard.walletguard.app/](https://dashboard.walletguard.app/)
 
-###
+#### 钱包安全检测插件
 
-### Revoke 取消可疑合约的授权
-
-[https://revoke.cash/zh](https://revoke.cash/zh)
-
-### 网站检测 + 钱包交易安全插件
-
-必备。链上安全 + 刷推、网站安全提示。
-
-#### Pocketuniverse
-
-官网，无邀请码版本：[https://www.pocketuniverse.app/](https://www.pocketuniverse.app/)
-
-或者进我的邀请链接：[https://](https://www.pocketuniverse.app/)[dash.pocketuniverse.app/ref/4SLY](https://dash.pocketuniverse.app/ref/4SLY)  (积分dashboard，未来发币空投)
-
-#### scamsniffer
-
-[https://www.scamsniffer.io/extension/](https://www.scamsniffer.io/extension/)
+* Pocketuniverse: [https://www.pocketuniverse.app/](https://www.pocketuniverse.app/)
+* ScamSniffer: [https://www.scamsniffer.io/extension/](https://www.scamsniffer.io/extension/)
+* WalletGuard: [https://dashboard.walletguard.app/](https://dashboard.walletguard.app/)
 
 ### Delegate 指定监护人钱包
 
