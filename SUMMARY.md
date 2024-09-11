@@ -4,6 +4,7 @@
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
+* [20240911：Linux跑CAT Protocol](cooking/20240911linux-pao-cat-protocol.md)
 * [20240828: DeFi 生态近期玩法](cooking/defi-cooking.md)
 * [20240820: Babylon P1 主网质押](cooking/babylon-p1.md)
 
