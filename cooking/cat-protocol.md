@@ -71,12 +71,14 @@ vim config.json
 
 ### 五. Run cli cmd
 
+这一步需要先等前面节点同步完成。
+
 ```shell
 # Wallet的创建、地址查看
 sudo yarn cli wallet create
 sudo yarn cli wallet address
 
-# Mint
+# 给地址转入 $FB，单次Mint
 # 看链上 gas 并对应 `--fee-rate` 后的数值： https://explorer.unisat.io/fractal-mainnet/block
 sudo yarn cli mint -i 45ee725c2c5993b3e4d308842d87e973bf1951f5f7a804b21e4dd964ecd12d6b_0 5 --fee-rate 100
 
@@ -84,9 +86,14 @@ sudo yarn cli mint -i 45ee725c2c5993b3e4d308842d87e973bf1951f5f7a804b21e4dd964ec
 sudo yarn cli wallet balances
 ```
 
-循环脚本，
+循环脚本：指定gas，30秒mint一次。
 
-`auto-run.sh` , 指定gas，30秒mint一次。
+```sh
+cd $HOME/cat-token-box/packages/cli/
+vim auto-run.sh
+```
+
+编辑内容并保存退出：
 
 ```shell
 #!/bin/bash
@@ -104,3 +111,18 @@ while true; do
     sleep 30
 done
 ```
+
+给脚本添加运行权限并跑起来：
+
+```sh
+chmod +x auto-run.sh
+./auto-run.sh
+
+# 放后台跑
+nohup ./auto-run.sh > run.log 2>&1 &
+# 查看日志
+tail -f -n 100 run.log
+```
+
+
+
