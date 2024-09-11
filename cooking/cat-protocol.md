@@ -35,9 +35,6 @@ sudo yarn install && sudo yarn build
 Run Fractal Node and CAT Protocol Index
 
 ````shell
-cd $HOME/cat-token-box/
-sudo docker build -t tracker:latest .
-
 cd $HOME/cat-token-box/packages/tracker/
 sudo chmod 777 docker/data
 sudo chmod 777 docker/pgdata
