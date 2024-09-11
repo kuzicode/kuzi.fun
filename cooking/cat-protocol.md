@@ -19,7 +19,7 @@ sudo chmod 755 $DESTINATION
 sudo apt install npm -y
 sudo npm install n -g
 sudo n stable
-npm i -g yarn
+sudo npm i -g yarn
 ```
 
 ### 二. 拉取代码并编译
@@ -46,7 +46,7 @@ sudo docker-compose up -d
 ```shell
 cd $HOME/cat-token-box/
 sudo docker build -t tracker:latest .
-docker run -d --name tracker --add-host="host.docker.internal:host-gateway" -e DATABASE_HOST="host.docker.internal" -e RPC_HOST="host.docker.internal" -p 3000:3000 tracker:latest
+sudo docker run -d --name tracker --add-host="host.docker.internal:host-gateway" -e DATABASE_HOST="host.docker.internal" -e RPC_HOST="host.docker.internal" -p 3000:3000 tracker:latest
 ```
 
 ### 四. Update 配置文件
@@ -71,13 +71,12 @@ vim config.json
 
 ### 五. Run cli cmd
 
-这一步需要先等前面节点同步完成。
-
 ```shell
 # Wallet的创建、地址查看
 sudo yarn cli wallet create
 sudo yarn cli wallet address
 
+# 这一步要先等节点同步完成才能看到效果
 # 给地址转入 $FB，单次Mint
 # 看链上 gas 并对应 `--fee-rate` 后的数值： https://explorer.unisat.io/fractal-mainnet/block
 sudo yarn cli mint -i 45ee725c2c5993b3e4d308842d87e973bf1951f5f7a804b21e4dd964ecd12d6b_0 5 --fee-rate 100
