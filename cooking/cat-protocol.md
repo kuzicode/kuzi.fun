@@ -32,22 +32,38 @@ sudo yarn install && sudo yarn build
 
 ### 三. 用 Docker 来运行
 
-1. Run Fractal Node
+Run Fractal Node and CAT Protocol Index
 
-```shell
+````shell
+cd $HOME/cat-token-box/
+sudo docker build -t tracker:latest .
+
 cd $HOME/cat-token-box/packages/tracker/
 sudo chmod 777 docker/data
 sudo chmod 777 docker/pgdata
+
+vim docker-compose.yml
+# 加入Tracker Index的内容
+```
+# services:
+  # postgres:
+    # ... (保持不变)
+  # bitcoind:
+    # ... (保持不变)
+  tracker:
+      image: tracker:latest
+      depends_on:
+        - postgres
+        - bitcoind
+      environment:
+        DATABASE_HOST: postgres
+        RPC_HOST: bitcoind
+      ports:
+        - "3000:3000"
+```
+
 sudo docker-compose up -d
-```
-
-2. Run CAT Protocol Local Index
-
-```shell
-cd $HOME/cat-token-box/
-sudo docker build -t tracker:latest .
-sudo docker run -d --name tracker --add-host="host.docker.internal:host-gateway" -e DATABASE_HOST="host.docker.internal" -e RPC_HOST="host.docker.internal" -p 3000:3000 tracker:latest
-```
+````
 
 ### 四. Update 配置文件
 
