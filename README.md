@@ -22,11 +22,7 @@ layout:
 
 <figure><img src=".gitbook/assets/crypto_city.jpeg" alt=""><figcaption></figcaption></figure>
 
-不限于某个板块，时效性 Alpha 随缘发推: [@kuzibtc](https://x.com/kuzibtc) 👈&#x20;
-
-Have fun.  多多关注新东西。
-
-
+Have fun.  多多关注新东西。[@kuzibtc](https://x.com/kuzibtc)&#x20;
 
 
 
