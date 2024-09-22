@@ -2,34 +2,35 @@
 description: Bot大多有邀请机制，链接后面是我的邀请码。
 ---
 
-# Meme交易工具
+# Meme热门交易工具
 
-### 盯盘工具 &  便捷交易
+### 一、盯盘看线
 
-DexScreen：多链看板，主要用来看K线，便捷Swap。
+电脑端盯盘一般用 DexScreen 或 GMGN，都是多链：
 
-[https://dexscreener.com/](https://dexscreener.com/solana)
+* DexScreen 多链支持更多: [https://dexscreener.com/](https://dexscreener.com/solana)
+* GMGN 可以看聪明钱动态：[https://gmgn.ai/trend/S183xXgRo](https://gmgn.ai/trend/S183xXgRo?chain=sol)
 
-Ave.ai: 多链看板，便捷Swap，有手机端APP。
+手机端可以用 Dexx (包含看线和直接交易，但需要用新钱包)，出门在外使用便捷
 
-[https://ave.ai/](https://ave.ai/)
+* Dexx：[https://dexx.ai/refer?inviteCode=5TI6IQ](https://dexx.ai/refer?inviteCode=5TI6IQ)
 
-GMGN：支持eth/sol，连接钱包，K线 + 聪明钱跟踪
 
-[https://gmgn.ai/trend/S183xXgRo](https://gmgn.ai/trend/S183xXgRo?chain=sol)
 
-Photon：支持eth/sol，需创建新degen钱包，快捷交易
+### 二、交易工具
 
-[https://photon.tinyastro.io/zh/trending](https://photon.tinyastro.io/zh/trending)
+手机端使用场景比较多的话可以主用 Dexx (包含看线和交易，但需要用新钱包)，出门在外使用便捷
 
-### TG Trading Bot
+* Dexx：[https://dexx.ai/refer?inviteCode=5TI6IQ](https://dexx.ai/refer?inviteCode=5TI6IQ)
 
-TG便捷交互，一键快捷买卖，pepeboost支持挂单。
+#### PC端/手机端：TG Trading Bot，主要是交易，不支持看线，可以导入自己钱包，输入合约一键快捷买卖，pepeboost支持挂单。
 
 * ETH - Pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n)
 * BASE - SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3\_bot?start=ref=1358182830)
 * SOL - Pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l)
 * TON - TonTrade: [https://t.me/tontrade?start=iZgNvfuE](https://t.me/tontrade?start=iZgNvfuE)
+
+
 
 
 

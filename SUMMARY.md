@@ -12,7 +12,7 @@
 
 * [Web3 常用工具](tools-hub/web3tools/README.md)
   * [折腾DeFi的工具](tools-hub/web3tools/tools.md)
-  * [Meme交易工具](tools-hub/web3tools/memecoin-tools.md)
+  * [Meme热门交易工具](tools-hub/web3tools/memecoin-tools.md)
   * [Web3钱包](tools-hub/web3tools/wallet-tools.md)
   * [安全工具](tools-hub/web3tools/wallet-security.md)
   * [RPC节点](tools-hub/web3tools/rpc-node.md)
