@@ -35,3 +35,4 @@
   * [SOL: Solanaの夏](chains-ecosystem/others/solana.md)
   * [TON: 电报链](chains-ecosystem/others/ton-chain.md)
   * [WLD: WorldChain](chains-ecosystem/others/wld-worldchain.md)
+  * [APE: 猴链](chains-ecosystem/others/ape-hou-lian.md)
