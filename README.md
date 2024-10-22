@@ -22,7 +22,7 @@ layout:
 
 <figure><img src=".gitbook/assets/crypto_city.jpeg" alt=""><figcaption></figcaption></figure>
 
-Have fun.  多多关注新东西。[@kuzibtc](https://x.com/kuzibtc)&#x20;
+Have fun.  多多关注新东西。[@kuzicrypto](https://x.com/kuzicrypto)
 
 
 
