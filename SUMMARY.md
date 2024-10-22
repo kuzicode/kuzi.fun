@@ -11,8 +11,8 @@
 ## 工具和指南 <a href="#tools-hub" id="tools-hub"></a>
 
 * [Web3 常用工具](tools-hub/web3tools/README.md)
-  * [折腾DeFi的工具](tools-hub/web3tools/tools.md)
-  * [Meme热门交易工具](tools-hub/web3tools/memecoin-tools.md)
+  * [Memecoin交易工具](tools-hub/web3tools/memecoin-tools.md)
+  * [日常折腾DeFi的工具](tools-hub/web3tools/tools.md)
   * [Web3钱包](tools-hub/web3tools/wallet-tools.md)
   * [安全工具](tools-hub/web3tools/wallet-security.md)
   * [RPC节点](tools-hub/web3tools/rpc-node.md)
@@ -34,5 +34,5 @@
 * [其他链生态](chains-ecosystem/others/README.md)
   * [SOL: Solanaの夏](chains-ecosystem/others/solana.md)
   * [TON: 电报链](chains-ecosystem/others/ton-chain.md)
-  * [WLD: WorldChain](chains-ecosystem/others/wld-worldchain.md)
-  * [APE: 猴链](chains-ecosystem/others/ape-hou-lian.md)
+  * [WLD: Worldchain](chains-ecosystem/others/worldchain.md)
+  * [APE: Apechain](chains-ecosystem/others/apechain.md)
