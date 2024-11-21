@@ -1,6 +1,7 @@
 # Table of contents
 
 * [WTF is Here?](README.md)
+* [⚡ 链上Meme交易工具](memecoin-tools.md)
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
@@ -11,7 +12,6 @@
 ## 工具和指南 <a href="#tools-hub" id="tools-hub"></a>
 
 * [Web3 常用工具](tools-hub/web3tools/README.md)
-  * [Memecoin交易工具](tools-hub/web3tools/memecoin-tools.md)
   * [日常折腾DeFi的工具](tools-hub/web3tools/tools.md)
   * [Web3钱包](tools-hub/web3tools/wallet-tools.md)
   * [安全工具](tools-hub/web3tools/wallet-security.md)
