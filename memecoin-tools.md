@@ -15,7 +15,7 @@ description: Bot有邀请机制，链接后面是我的邀请码，一般可以�
 
 #### PC端
 
-#### 实测K线时效性和交易速度最快的是 Bullx 或 Photon，都是需要登录后新生成托管钱包，一边看K线一边交易。
+#### 实测 K线时效性和交易流畅度最好的是 Bullx 和 Photon，都需要钱包登录后生成新的托管钱包，看K线 + Trade，都支持挂限价单。
 
 bullx: [https://t.me/BullxBetaBot?start=access\_VUA52T84NE](https://t.me/BullxBetaBot?start=access\_VUA52T84NE)
 
