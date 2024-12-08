@@ -17,20 +17,20 @@ description: Bot有邀请机制，链接后面是我的邀请码，一般可以�
 
 #### 实测 K线时效性和交易流畅度最好的是 Bullx 和 Photon，都需要钱包登录后生成新的托管钱包，看K线 + Trade，都支持挂限价单。
 
-bullx: [https://t.me/BullxBetaBot?start=access\_VUA52T84NE](https://t.me/BullxBetaBot?start=access\_VUA52T84NE)
+bullx: [https://t.me/BullxBetaBot?start=access\_VUA52T84NE](https://t.me/BullxBetaBot?start=access_VUA52T84NE)
 
 photon: [https://photon-sol.tinyastro.io/@kuzi](https://photon-sol.tinyastro.io/@kuzi)
 
 #### 手机端
 
-#### TG Bot，不支持看线但交易更方便，可以导入自己钱包，输入合约一键快捷买卖，支持限价挂单。
+#### 手机端之所以优选TG Bot，主要是为了安全，不支持看线但交易更方便，可以导入自己钱包，输入合约一键快捷买卖，支持限价挂单。
 
-* ETH&#x20;
-  * Pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n)
 * SOL
-  * Pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l)
-  * Gmgn: [https://t.me/GMGN\_sol02\_bot?start=i\_fRYZqy19](https://t.me/GMGN\_sol02\_bot?start=i\_fRYZqy19)
-* BASE / BSC - SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3\_bot?start=ref=1358182830)
+  * Pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost_sol_bot?start=ref_0x6t8l)
+  * Gmgn: [https://t.me/GMGN\_sol02\_bot?start=i\_fRYZqy19](https://t.me/GMGN_sol02_bot?start=i_fRYZqy19)
+* ETH
+  * Pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost_swap_bot?start=ref_0nbz6n)
+* BASE / BSC - SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3_bot?start=ref=1358182830)
 * TON - TonTrade: [https://t.me/tontrade?start=iZgNvfuE](https://t.me/tontrade?start=iZgNvfuE)
 
 
