@@ -1,5 +1,5 @@
 ---
-description: Bot有邀请机制，链接后面是我的邀请码，一般可以减免部分交易手续费，介意可去掉。
+description: Bot有邀请机制，链接邀请码一般可以减免部分交易手续费，介意可去掉。
 ---
 
 # ⚡ 链上Meme交易工具
@@ -15,15 +15,21 @@ description: Bot有邀请机制，链接后面是我的邀请码，一般可以�
 
 #### PC端
 
-#### 实测 K线时效性和交易流畅度最好的是 Bullx 和 Photon，都需要钱包登录后生成新的托管钱包，看K线 + Trade，都支持挂限价单。
+Gmgn : [https://gmgn.ai/?ref=fRYZqy19](https://gmgn.ai/?ref=fRYZqy19\&chain=sol)
 
-bullx: [https://t.me/BullxBetaBot?start=access\_VUA52T84NE](https://t.me/BullxBetaBot?start=access_VUA52T84NE)
+看线 + 交易，一般两个钱包地址来用：
 
-photon: [https://photon-sol.tinyastro.io/@kuzi](https://photon-sol.tinyastro.io/@kuzi)
+1. 主钱包签名登录，弹出钱包来日常交易和仓位管理。
+2. 新建小号用TG登陆，私钥托管极速上链；
+
+备用： Bullx 和 Photon，实测 K线时效性和交易流畅度都非常好，都支持挂限价单。
+
+* bullx: [https://t.me/BullxBetaBot?start=access\_VUA52T84NE](https://t.me/BullxBetaBot?start=access_VUA52T84NE)
+* photon: [https://photon-sol.tinyastro.io/@kuzi](https://photon-sol.tinyastro.io/@kuzi)
 
 #### 手机端
 
-#### 手机端之所以优选TG Bot，主要是为了安全，不支持看线但交易更方便，可以导入自己钱包，输入合约一键快捷买卖，支持限价挂单。
+手机端之所以优选 TG Bot 主要是为了速度，不支持看线但交易更方便，可以导入自己小号钱包，输入合约一键快捷买卖，支持限价挂单。
 
 * SOL
   * Pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost_sol_bot?start=ref_0x6t8l)
@@ -37,7 +43,7 @@ photon: [https://photon-sol.tinyastro.io/@kuzi](https://photon-sol.tinyastro.io/
 
 总结：
 
-目前日常我用 gmgn 看线 + 钱包监控，用 bullx 来交易，偶尔外出用手机的 pepeboost。
+目前日常我用 Gmgn 看线 + 交易 + 钱包监控，偶尔外出用 TG Bot。
 
 个人用的顺手最重要，少就是多。
 
