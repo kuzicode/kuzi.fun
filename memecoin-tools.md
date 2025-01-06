@@ -11,7 +11,9 @@ description: Bot有邀请机制，邀请码一般可减免部分手续费，介�
 
 ### 一. GMGN
 
-1. 网页端：看线 + 交易，一般两个钱包地址来用：
+1. 网页端：[https://gmgn.ai/?ref=fRYZqy19](https://gmgn.ai/?ref=fRYZqy19\&chain=sol)
+
+看线 + 交易，一般两个钱包地址来用：
 
 * 主钱包签名登录，弹出钱包来日常交易和仓位管理。
 * 新建小号（托管钱包）用TG登陆，私钥托管极速上链；
@@ -26,6 +28,8 @@ description: Bot有邀请机制，邀请码一般可减免部分手续费，介�
 * TG Bot 目前只能支持1个托管小钱包，网页里的BOT钱包也是用这个。
 
 ### 二. XXYY
+
+入口：[https://www.xxyy.io/?ref=WcLnVx](https://www.xxyy.io/?ref=WcLnVx)
 
 1. 网页端：看线 + 交易。
 
