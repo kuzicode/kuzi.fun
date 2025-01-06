@@ -1,7 +1,7 @@
 # Table of contents
 
 * [WTF is Here?](README.md)
-* [⚡ 链上Meme交易工具](memecoin-tools.md)
+* [⚡ 链上交易工具](memecoin-tools.md)
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
