@@ -1,5 +1,5 @@
 ---
-description: Bot有邀请机制，邀请码一般可减免部分手续费，介意可去掉。
+description: BOT有邀请机制，邀请码介意可去掉
 ---
 
 # ⚡ 链上交易工具
@@ -9,9 +9,14 @@ description: Bot有邀请机制，邀请码一般可减免部分手续费，介�
 * GMGN 入口：[https://gmgn.ai/?ref=fRYZqy19](https://gmgn.ai/?ref=fRYZqy19\&chain=sol)
 * XXYY 入口：[https://www.xxyy.io/?ref=WcLnVx](https://www.xxyy.io/?ref=WcLnVx)
 
+根据个人喜好选择任意一套都能满足 <网页/手机看线交易+钱包监控> 的需求。
+
 ### 一. GMGN
 
-1. 网页端：[https://gmgn.ai/?ref=fRYZqy19](https://gmgn.ai/?ref=fRYZqy19\&chain=sol)
+* 入口：[https://gmgn.ai/?ref=fRYZqy19](https://gmgn.ai/?ref=fRYZqy19\&chain=sol)
+* 文档：[https://docs.gmgn.ai/cn](https://docs.gmgn.ai/cn)
+
+1. 网页端：
 
 看线 + 交易，一般两个钱包地址来用：
 
@@ -20,16 +25,19 @@ description: Bot有邀请机制，邀请码一般可减免部分手续费，介�
 
 2. 手机端APP：[https://gmgn.ai/app/fRYZqy19](https://gmgn.ai/app/fRYZqy19)
 
-<figure><img src=".gitbook/assets/截屏2025-01-06 15.53.03.png" alt=""><figcaption></figcaption></figure>
+* 看线 + 便捷交易，钱包也是用的 TG 登陆的托管钱包
 
-3. TG BOT：[https://t.me/gmgnaibot?start=i\_fRYZqy19](https://t.me/gmgnaibot?start=i_fRYZqy19)
+<figure><img src=".gitbook/assets/截屏2025-01-06 16.31.20.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* 可以设置监控到TG群组，一键跳转到网页/TG Bot快捷交易
-* TG Bot 目前只能支持1个托管小钱包，网页里的BOT钱包也是用这个。
+2. TG BOT：[https://t.me/gmgnaibot?start=i\_fRYZqy19](https://t.me/gmgnaibot?start=i_fRYZqy19)
+
+* 可以设置监控到 TG 群组，一键跳转到网页 / TG Bot 快捷交易
+* TG Bot 目前只能支持1个托管小钱包，网页里的 BOT 钱包也是用这个。
 
 ### 二. XXYY
 
-入口：[https://www.xxyy.io/?ref=WcLnVx](https://www.xxyy.io/?ref=WcLnVx)
+* 入口：[https://www.xxyy.io/?ref=WcLnVx](https://www.xxyy.io/?ref=WcLnVx)
+* 文档：[https://docs.xxyy.io/cn](https://docs.xxyy.io/cn)
 
 1. 网页端：看线 + 交易。
 
