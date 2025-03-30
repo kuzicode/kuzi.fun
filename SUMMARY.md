@@ -2,12 +2,12 @@
 
 * [简介](README.md)
 * [⚡ 链上交易工具：Gmgn](memecoin-tools.md)
-* [💰 DeFi 工具](tools.md)
+* [💰 DeFi 工具](tools-hub/web3tools/tools.md)
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
 * [🔖 Achieve](cooking/achieve/README.md)
-  * [20250107: 理财套利机会](cooking/achieve/20250107-note.md)
+  * [20250107: 理财套利机会](cooking/20250107-note.md)
   * [20240911: Linux跑FB的CAT20](cooking/achieve/cat-protocol.md)
   * [20240828: DeFi 生态近期玩法](cooking/achieve/defi-cooking.md)
   * [20240820: Babylon P1 主网质押](cooking/achieve/babylon-p1.md)
@@ -19,7 +19,7 @@
   * [安全工具](tools-hub/web3tools/wallet-security.md)
   * [RPC节点](tools-hub/web3tools/rpc-node.md)
 * [Quick 快速入门系列](tools-hub/quick-join-crypto/README.md)
-  * [链上Meme币玩家必备](tools-hub/quick-join-crypto/be-a-meme-degen.md)
+  * [Meme币交易工具普及](tools-hub/quick-join-crypto/be-a-meme-degen.md)
   * [NFT新人百宝箱](tools-hub/quick-join-crypto/how-to-be-nfts-degen-eth.md)
 
 ## 链板块生态 <a href="#chains-ecosystem" id="chains-ecosystem"></a>
