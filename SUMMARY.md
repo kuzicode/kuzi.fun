@@ -1,12 +1,13 @@
 # Table of contents
 
-* [WTF is Here?](README.md)
-* [⚡ 链上交易工具](memecoin-tools.md)
+* [简介](README.md)
+* [⚡ 链上交易工具：Gmgn](memecoin-tools.md)
+* [💰 DeFi 工具](tools.md)
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
-* [20250107: 理财套利机会](cooking/20250107-note.md)
-* [Achieve](cooking/achieve/README.md)
+* [🔖 Achieve](cooking/achieve/README.md)
+  * [20250107: 理财套利机会](cooking/achieve/20250107-note.md)
   * [20240911: Linux跑FB的CAT20](cooking/achieve/cat-protocol.md)
   * [20240828: DeFi 生态近期玩法](cooking/achieve/defi-cooking.md)
   * [20240820: Babylon P1 主网质押](cooking/achieve/babylon-p1.md)
@@ -14,8 +15,7 @@
 ## 工具和指南 <a href="#tools-hub" id="tools-hub"></a>
 
 * [Web3 常用工具](tools-hub/web3tools/README.md)
-  * [日常折腾DeFi的工具](tools-hub/web3tools/tools.md)
-  * [Web3钱包](tools-hub/web3tools/wallet-tools.md)
+  * [各链钱包](tools-hub/web3tools/wallet-tools.md)
   * [安全工具](tools-hub/web3tools/wallet-security.md)
   * [RPC节点](tools-hub/web3tools/rpc-node.md)
 * [Quick 快速入门系列](tools-hub/quick-join-crypto/README.md)

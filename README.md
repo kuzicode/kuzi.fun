@@ -13,16 +13,18 @@ layout:
     visible: true
 ---
 
-# WTF is Here?
+# 简介
 
-&#x20;不定时写一写的 Web3 工具资料仓库：
+&#x20;不定时写写的 Crypto 工具资料仓库：
 
-* 投研笔记。随手记录会用到的工具和链接，顺带记录投研笔记；
-* 教程科普。刚玩链上的朋友经常问的问题和工具需求，也归集在这里。
+* 投资日记。投研与复盘，并记录日常会用到的工具和链接；
+* 科普笔记。小白朋友经常问的问题和工具需求。
 
 <figure><img src=".gitbook/assets/crypto_city.jpeg" alt=""><figcaption></figcaption></figure>
 
-Have fun.  多多关注新东西。[@kuzicrypto](https://x.com/kuzicrypto)
+投资就是赚辛苦钱，多关注牌桌上的新东西。
+
+X: [@kuzicrypto](https://x.com/kuzicrypto)
 
 
 

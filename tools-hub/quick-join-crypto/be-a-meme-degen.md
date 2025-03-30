@@ -4,6 +4,8 @@ description: 主要面对 EVM(ETH) 生态和 SOL 生态的 Memecoin
 
 # 链上Meme币玩家必备
 
+Tips: 本篇为入门版科普，进阶型Meme交易工具见：  [memecoin-tools.md](../../memecoin-tools.md "mention")
+
 
 
 今年对于不同的板块热度转换很快，但大体都离不开 ETH 主链以及 Base 链 (ETH L2) 、SOL 主链生态。
@@ -61,15 +63,15 @@ SOL 现在有分内盘和外盘的玩法，内盘一般是pump.fun，外盘的�
 
 ### eth bot
 
-pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n)
+pepeboost: [https://t.me/pepeboost\_swap\_bot?start=ref\_0nbz6n](https://t.me/pepeboost_swap_bot?start=ref_0nbz6n)
 
 ### base bot
 
-SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3\_bot?start=ref=1358182830)
+SigmaTrading: [https://t.me/SigmaTrading3\_bot?start=ref=1358182830](https://t.me/SigmaTrading3_bot?start=ref=1358182830)
 
 ### sol bot&#x20;
 
-pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l)
+pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pepeboost_sol_bot?start=ref_0x6t8l)
 
 
 
@@ -81,7 +83,7 @@ pepeboost: [https://t.me/pepeboost\_sol\_bot?start=ref\_0x6t8l](https://t.me/pep
 
 
 
-更进阶的工具可以在这里折腾:  [memecoin-tools.md](../../memecoin-tools.md "mention")
+
 
 
 
