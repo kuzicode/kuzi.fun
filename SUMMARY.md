@@ -6,11 +6,17 @@
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
-* [🔖 Achieve](cooking/achieve/README.md)
+* [📙 投研笔记存档](cooking/achieve/README.md)
   * [20250107: 理财套利机会](cooking/20250107-note.md)
   * [20240911: Linux跑FB的CAT20](cooking/achieve/cat-protocol.md)
   * [20240828: DeFi 生态近期玩法](cooking/achieve/defi-cooking.md)
   * [20240820: Babylon P1 主网质押](cooking/achieve/babylon-p1.md)
+
+***
+
+* [🤒 学习与复盘](xue-xi-yu-fu-pan/README.md)
+  * [Meme叙事与估值](xue-xi-yu-fu-pan/meme-rd-analysis.md)
+  * [旁氏三盘理论](xue-xi-yu-fu-pan/ponzi-three-types.md)
 
 ## 工具和指南 <a href="#tools-hub" id="tools-hub"></a>
 
