@@ -19,9 +19,11 @@ layout:
 
 <div align="left"><figure><img src=".gitbook/assets/5516.jpg" alt="Pudgy#5516" width="188"><figcaption><p>Kumata Hong</p></figcaption></figure></div>
 
-一枚 Web3码农，也是 [链上Degen](https://x.com/i/grok/share/UM5mJSf4VYlvPMitBJLUpf8Dn)
+2019 年入行的一枚 Web3 码农，也是 [链上Degen](https://x.com/i/grok/share/UM5mJSf4VYlvPMitBJLUpf8Dn)。
 
-2019 年入行的一颗韭菜，从硬件矿工到 Defi 理财，从 Coding仔 到链上赌狗。
+从硬件矿工到 Defi 理财，从开发者到链上赌狗；
+
+个人路线是成为一个了解技术底层和拥有交易思维的研究员，简单的来说就是啥都懂但啥也不精Lol。
 
 
 
