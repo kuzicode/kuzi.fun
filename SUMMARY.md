@@ -14,11 +14,12 @@
 
 ***
 
-* [🤔 学习与复盘](learn-review/README.md)
-  * [个人复盘](learn-review/reviewformyslf.md)
+* [🤔 学习复盘存档](learn-review/README.md)
+  * [个人复盘日记](learn-review/reviewformyslf.md)
   * [Meme叙事分析](learn-review/meme-story-analysis.md)
+  * [猫群交易理论](learn-review/lasercat-trade.md)
+  * [GCR交易理论](learn-review/gcr-trade-learn.md)
   * [旁氏三盘理论](learn-review/ponzi-three-types.md)
-  * [GCR的交易理论](learn-review/gcr-trade-learn.md)
 
 ## 工具和指南 <a href="#tools-hub" id="tools-hub"></a>
 

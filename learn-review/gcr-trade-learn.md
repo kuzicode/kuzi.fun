@@ -1,8 +1,8 @@
 ---
-description: Trade Method from @GCR，结合他的交易理论学习和我的思考来整理
+description: Trade Method from @GCR，结合他的交易理论学习和个人思考来整理
 ---
 
-# GCR的交易理论
+# GCR交易理论
 
 #### 1. Buy the rumours, sell the news
 
