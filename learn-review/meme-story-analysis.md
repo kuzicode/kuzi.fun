@@ -1,8 +1,8 @@
-# Meme叙事与估值
+# Meme叙事分析
 
-## 参考一：“可传播的人数” X “情绪共鸣的深度” = “叙事价值”
+From麦总：[https://x.com/Michael\_Liu93/status/1866800767719575737](https://x.com/Michael_Liu93/status/1866800767719575737)
 
-From：[https://x.com/Michael\_Liu93/status/1866800767719575737](https://x.com/Michael_Liu93/status/1866800767719575737)
+## “可传播的人数” X “情绪共鸣的深度” = “叙事价值”
 
 ### 1. 热点叙事：如 Pnut、Ban、Fight、Luigi
 
@@ -63,14 +63,4 @@ From：[https://x.com/Michael\_Liu93/status/1866800767719575737](https://x.com/M
 #### 总结：
 
 找龙头已经跑出空间的大赛道，龙二多做短线，看到晚了就别上了，止盈一定不要贪，你要去抢跑庄，“龙二“如果看到晚了还不如直接加仓龙头。
-
-
-
-
-
-## &#x20;参考二：叙事类型速判断
-
-From: [https://x.com/CyptoForest/status/1905822092513419456](https://x.com/CyptoForest/status/1905822092513419456)
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-31 at 00.29.15.png" alt=""><figcaption></figcaption></figure>
 
