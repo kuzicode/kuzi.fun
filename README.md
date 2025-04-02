@@ -15,9 +15,9 @@ layout:
 
 # 简介
 
-Kuzi
+### Kuzi
 
-<div align="left"><figure><img src=".gitbook/assets/5516.jpg" alt="Pudgy#5516" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/5516.jpg" alt="Pudgy#5516" width="188"><figcaption><p>Kumata Hong</p></figcaption></figure></div>
 
 一枚 Web3码农，也是 [链上Degen](https://x.com/i/grok/share/UM5mJSf4VYlvPMitBJLUpf8Dn)
 
