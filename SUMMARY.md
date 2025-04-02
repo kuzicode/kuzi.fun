@@ -1,6 +1,6 @@
 # Table of contents
 
-* [简单介绍](README.md)
+* [简介](README.md)
 * [⚡ 链上交易工具：Gmgn](memecoin-tools.md)
 * [💰 DeFi 工具](tools-hub/web3tools/tools.md)
 
