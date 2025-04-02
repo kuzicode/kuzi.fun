@@ -13,13 +13,13 @@ layout:
     visible: true
 ---
 
-# 简单介绍
+# 简介
 
 Kuzi
 
 <div align="left"><figure><img src=".gitbook/assets/5516.jpg" alt="Pudgy#5516" width="188"><figcaption></figcaption></figure></div>
 
-一枚 Web3 码农，也是链上 Degen. &#x20;
+一枚 Web3码农，也是 [链上Degen](https://x.com/i/grok/share/UM5mJSf4VYlvPMitBJLUpf8Dn)
 
 2019 年入行的一颗韭菜，从硬件矿工到 Defi 理财，从 Coding仔 到链上赌狗。
 
