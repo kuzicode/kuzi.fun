@@ -2,9 +2,9 @@
 description: 主要面对 EVM(ETH) 生态和 SOL 生态的 Memecoin
 ---
 
-# 链上Meme币玩家必备
+# Meme币交易工具普及
 
-Tips: 本篇为入门版科普，进阶型Meme交易工具见：  [memecoin-tools.md](../../memecoin-tools.md "mention")
+Tips: 本篇为入门版科普，进阶型Meme交易工具见：  [trade-bots.md](../../trade-bots.md "mention")
 
 
 

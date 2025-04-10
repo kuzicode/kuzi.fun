@@ -1,7 +1,7 @@
 # Table of contents
 
 * [简介](README.md)
-* [⚡ 链上交易工具：Gmgn](memecoin-tools.md)
+* [⚡ 链上交易：Axiom, Gmgn](trade-bots.md)
 * [💰 DeFi 工具](tools-hub/web3tools/tools.md)
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>

@@ -1,15 +1,44 @@
-# ⚡ 链上交易工具：Gmgn
+# ⚡ 链上交易：Axiom, Gmgn
 
-### 一. Gmgn：综合类交易BOT
+### 一：Axiom: 交易量第一的交易BOT
 
-Gmgn 是一款链上交易+数据综合类工具，是目前市面上最受欢迎的 Trade Bot 之一，含看线 + 监控 + 交易：
+产品发展路线是一个全功能的交易平台，含链上交易、合约交易、钱包管理、实时监控（包括 Twitter 和钱包追踪）以及限价单等功能。
 
-主要满足我网页或者手机 看K线 + 快速交易+钱包监控 的需求。
+入口：[https://axiom.trade/@kuzi](https://axiom.trade/@kuzi)         <- 邀请链接减免 10% 交易手续费
+
+<figure><img src=".gitbook/assets/截屏2025-04-10 15.21.59.png" alt=""><figcaption></figcaption></figure>
+
+优势
+
+[@ycombinator](https://x.com/ycombinator) 机构孵化，英文区明牌正规团队，目前SOL BOT交易量第一，占比40%+，数据来自[Dune](https://dune.com/adam_tehc/trading-bots-on-solana)；
+
+<figure><img src=".gitbook/assets/截屏2025-04-10 15.17.30.png" alt=""><figcaption></figcaption></figure>
+
+看线：K线加载速度快，秒级K线不会卡顿掉层；
+
+交易：速度极流畅且贿赂费低，抽水费用层次低于市面其他BOT，为 0.75%\~0.9%；
+
+监控：钱包地址 + X 账户动态秒级监控，完全免费；
+
+其他：交易的手续费会返还领取，积分机制激励，未来发币期望。
+
+<figure><img src=".gitbook/assets/截屏2025-04-10 15.16.36.png" alt=""><figcaption></figcaption></figure>
+
+待完善的点：目前只支持网页版，并且只有SOL链，即将上线中文版本与移动端版本。
+
+总结：一个页面简洁舒适 + 非常流畅交易体验的BOT，且有空投预期，黑马产品。
+
+
+
+
+
+### 二. Gmgn：多链交易BOT
+
+Gmgn 中文圈最受欢迎的 Trade Bot 之一，链上交易+数据综合类工具，含看线 + 监控 + 交易：
+
+主要满足网页或者手机 看K线 + 快速交易+钱包监控 的需求。
 
 * 入口：[https://gmgn.ai/?ref=fRYZqy19](https://gmgn.ai/?ref=fRYZqy19\&chain=sol)
-* 文档：[https://docs.gmgn.ai/cn](https://docs.gmgn.ai/cn)
-* 推特：[https://x.com/gmgnai](https://x.com/gmgnai)
-* Founder: [https://x.com/haze0x](https://x.com/haze0x)
 
 
 
