@@ -1,8 +1,8 @@
 # ⚡ 链上交易：Axiom, Gmgn
 
-### 一. Axiom: 交易量第一的交易BOT
+### 一. Axiom: SOL交易量第一的BOT
 
-产品发展路线是一个全功能的交易平台，含链上交易、合约交易、钱包管理、实时监控（包括 Twitter 和钱包追踪）以及限价单等功能。
+产品发展路线是一个全功能的交易平台，含链上交易、合约交易、钱包管理、实时监控（包括 Twitter 和钱包追踪）以及限价单等功能。**现在日常交易会奖励SOL(来自平台手续费) + 积分空投预期。**
 
 入口：[https://axiom.trade/@kuzi](https://axiom.trade/@kuzi)         <- 邀请链接减免 10% 交易手续费
 
@@ -20,9 +20,9 @@
 
 监控：钱包地址 + X 账户动态秒级监控，完全免费；
 
-其他：交易的手续费会返还领取，积分机制激励，未来发币期望。
+激励：平台手续费会以SOL现金的激励来返还领取，另外还有积分机制激励 = 未来发币期望。
 
-<figure><img src=".gitbook/assets/截屏2025-04-10 15.16.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/截屏2025-04-11 00.11.42.png" alt=""><figcaption></figcaption></figure>
 
 待完善的点：目前只支持网页版，并且只有SOL链，即将上线中文版本与移动端版本。
 
@@ -30,9 +30,7 @@
 
 
 
-
-
-### 二. Gmgn：多链交易BOT
+### 二. Gmgn: 多链交易BOT
 
 Gmgn 中文圈最受欢迎的 Trade Bot 之一，链上交易+数据综合类工具，含看线 + 监控 + 交易：
 
