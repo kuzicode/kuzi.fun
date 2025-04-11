@@ -22,7 +22,7 @@
 
 激励：平台手续费会以SOL现金的激励来返还领取，另外还有积分机制激励 = 未来发币期望。
 
-<figure><img src=".gitbook/assets/截屏2025-04-11 00.11.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/截屏2025-04-11 11.17.02.png" alt=""><figcaption></figcaption></figure>
 
 待完善的点：目前只支持网页版，并且只有SOL链，即将上线中文版本与移动端版本。
 
