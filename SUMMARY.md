@@ -23,9 +23,8 @@
 
 ## 工具和指南 <a href="#tools-hub" id="tools-hub"></a>
 
-* [Web3 常用工具](tools-hub/web3tools/README.md)
-  * [各链钱包](tools-hub/web3tools/wallet-tools.md)
-  * [安全工具](tools-hub/web3tools/wallet-security.md)
+* [Web3 常备工具](tools-hub/web3tools/README.md)
+  * [安全相关](tools-hub/web3tools/security.md)
 * [Quick 快速入门系列](tools-hub/quick-join-crypto/README.md)
   * [Meme币交易工具普及](tools-hub/quick-join-crypto/be-a-meme-degen.md)
   * [NFT新人百宝箱](tools-hub/quick-join-crypto/how-to-be-nfts-degen-eth.md)
@@ -40,6 +39,7 @@
 ## 链板块生态 <a href="#chains-ecosystem" id="chains-ecosystem"></a>
 
 * [BTC 生态](chains-ecosystem/btc/README.md)
+  * [Wallet](chains-ecosystem/btc/wallet.md)
   * [Runes 符文](chains-ecosystem/btc/runes.md)
   * [Ordinals 铭文](chains-ecosystem/btc/ordinals.md)
   * [Atomicals 染色币](chains-ecosystem/btc/atomicals/README.md)
@@ -47,12 +47,13 @@
     * [Linux/Mac下挖NFT和Realm](chains-ecosystem/btc/atomicals/linux-mac-mint-nft.md)
     * [一些价值探讨备份.20231117](chains-ecosystem/btc/atomicals/learn-20231117.md)
 * [ETH 生态](chains-ecosystem/eth/README.md)
+  * [Wallet](chains-ecosystem/eth/wallet.md)
   * [Defi](chains-ecosystem/eth/defi.md)
+  * [RPC Nodes](chains-ecosystem/eth/rpc-node.md)
   * [NFT](chains-ecosystem/eth/nft-tools.md)
-  * [EVM RPC 节点](chains-ecosystem/eth/rpc-node.md)
 * [SOL 生态](chains-ecosystem/sol/README.md)
-  * [Meme](chains-ecosystem/sol/meme-eco.md)
   * [Wallet](chains-ecosystem/sol/wallet.md)
+  * [Meme](chains-ecosystem/sol/meme-eco.md)
   * [Defi](chains-ecosystem/sol/defi.md)
 * [其他链生态](chains-ecosystem/others/README.md)
   * [TON: 电报链](chains-ecosystem/others/ton-chain.md)

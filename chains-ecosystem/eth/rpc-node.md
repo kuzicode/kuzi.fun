@@ -1,8 +1,8 @@
 ---
-description: EVM RPC NODES
+description: EVM RPC Nodes
 ---
 
-# EVM RPC 节点
+# RPC Nodes
 
 ### 公开的免费链节点列表
 

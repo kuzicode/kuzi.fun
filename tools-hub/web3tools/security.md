@@ -1,20 +1,20 @@
 ---
-description: 相关的文章和实用工具，保护钱包是加密世界游玩的重中之重。
+description: 相关的文章和实用工具，保护资产安全是加密世界游玩的重中之重。
 ---
 
-# 安全工具
+# 安全相关
 
-### 慢雾出品必看系列
+### 慢雾出品必看文章
 
 对用户：区块链黑暗森林自救黑手册
 
-{% embed url="https://darkhandbook.io/" %}
+* [https://darkhandbook.io/](https://darkhandbook.io/)
 
 对项目：加密安全红手册
 
-{% embed url="https://www.slowmist.com/redhandbook/" %}
+* [https://www.slowmist.com/redhandbook/](https://www.slowmist.com/redhandbook/)
 
-### Wallet Security Tool 钱包安全工具
+### Wallet Security Tool
 
 #### 取消授权
 

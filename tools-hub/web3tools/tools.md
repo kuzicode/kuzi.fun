@@ -24,7 +24,6 @@
 
 * 小飞碟 - 跨链桥 ：[https://app.orbiter.finance/](https://app.orbiter.finance/)
 * OKX Web3 - 多链聚合器 : [https://web3.okx.com/zh-hans/dex-swap](https://web3.okx.com/zh-hans/dex-swap)
-* Gmgn - 链上极速交易BOT：[https://gmgn.ai/?ref=fRYZqy19](https://gmgn.ai/?ref=fRYZqy19\&chain=sol)
 
 
 
