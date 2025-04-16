@@ -1,14 +1,9 @@
 ---
 description: 不止于土狗大赌场，Solana在Defi/AI/Depin等等创新领域正在发热。
+icon: s
 ---
 
-# SOL: Solanaの夏
-
-## Wallet
-
-* Phanton 小幽灵: [https://phantom.app/](https://phantom.app/)
-* OKX 多链钱包: [https://www.okx.com/web3](https://www.okx.com/web3)
-* MagicEden 多链钱包: [https://wallet.magiceden.io/](https://wallet.magiceden.io/)
+# SOL 生态
 
 ## Defi
 

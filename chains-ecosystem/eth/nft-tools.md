@@ -1,8 +1,8 @@
 ---
-description: 主要是Ethereum相关NFT工具，2021-2022盛况。
+description: 主要是Ethereum相关NFT工具，2021-2023盛况。
 ---
 
-# NFT(暂且没落)
+# NFT
 
 ## NFT交易市场&#x20;
 
