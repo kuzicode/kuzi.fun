@@ -27,11 +27,7 @@ Atomicals 染色币协议专用：
 * Metamask (小狐狸，适配性最广): [https://metamask.io/](https://metamask.io/)
 * Onekey (小狐狸平替，硬钱包生态): [https://onekey.so/download](https://onekey.so/zh_CN/download)
 
-## SOL钱包
-
-* Phanton 小幽灵: [https://phantom.app/](https://phantom.app/)
-* OKX 多链钱包: [https://www.okx.com/web3](https://www.okx.com/web3)
-* MagicEden 多链钱包: [https://wallet.magiceden.io/](https://wallet.magiceden.io/)
+##
 
 
 
