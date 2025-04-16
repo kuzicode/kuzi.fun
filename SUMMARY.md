@@ -2,12 +2,12 @@
 
 * [简介](README.md)
 * [⚡ 链上交易：Axiom, Gmgn](trade-bots.md)
-* [💰 DeFi 工具](tools-hub/web3tools/tools.md)
+* [💫 DeFi 工具](tools-hub/web3tools/tools.md)
 
-## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
+## 🔖 写点新鲜的 <a href="#cooking" id="cooking"></a>
 
-* [20250416: LP为主, 链上为辅](cooking/20250416-note.md)
-* [加密笔记存档](cooking/achieve/README.md)
+* [实操笔记](cooking/achieve/README.md)
+  * [20250416: LP为主, 链上为辅](cooking/achieve/20250416-note.md)
   * [20250107: 理财套利机会](cooking/20250107-note.md)
   * [20240911: Linux跑FB的CAT20](cooking/achieve/cat-protocol.md)
   * [20240828: DeFi 生态近期玩法](cooking/achieve/defi-cooking.md)
@@ -15,7 +15,7 @@
 
 ***
 
-* [学习复盘存档](learn-review/README.md)
+* [学习复盘](learn-review/README.md)
   * [个人复盘日记](learn-review/reviewformyslf.md)
   * [Meme叙事分析](learn-review/meme-story-analysis.md)
   * [猫群交易理论](learn-review/lasercat-trade.md)
