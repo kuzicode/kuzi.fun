@@ -1,12 +1,10 @@
 ---
-description: 一个去中心的记账网络。
+description: 结合一个例子：如何把一块“黄金”通过寄快递的方式送到对方手里。
 ---
 
 # 比特币：交易与记账机制
 
 #### 如果你向 Kuzi 转账 1 BTC，这个过程是如何被比特币网络验证和确认的？ <a href="#ru-guo-wo-xiang-bob-zhuan-zhang-1btc-zhe-ge-guo-cheng-shi-ru-he-bei-bi-te-bi-wang-luo-yan-zheng-he-q" id="ru-guo-wo-xiang-bob-zhuan-zhang-1btc-zhe-ge-guo-cheng-shi-ru-he-bei-bi-te-bi-wang-luo-yan-zheng-he-q"></a>
-
-既然 BTC 是“数字黄金”，那么用一个例子：如何把一块“黄金”通过“寄快递”送到对方手里来描述。
 
 ## **1. 下单（创建交易）**
 
