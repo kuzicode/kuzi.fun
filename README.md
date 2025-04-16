@@ -23,9 +23,9 @@ Bitcoin 信仰者，Crypto 研究员。
 
 
 
-加密历程：2019年码农身份入行 Crypto，从底层密码学开始研究，参与过硬件 Miner 开发与联盟链的设计，现主要在做项目投研和 Defi 套利，也是一个链上 [Degen](https://x.com/i/grok/share/UM5mJSf4VYlvPMitBJLUpf8Dn)。
+加密历程：2019年码农身份入行 Crypto，从底层密码学开始研究，参与过硬件 Miner 开发与链架构的设计，现主要在做项目投研和 Defi 套利，也是一个链上 [Degen](https://x.com/i/grok/share/UM5mJSf4VYlvPMitBJLUpf8Dn)。
 
-目前方向：做一个理解技术底层和训练交易思维的研究员，大部分时间用来发掘市场增量机会。
+目前方向：做一个理解技术底层和市场发展走向的研究员，主要精力用来发掘市场增量机会。
 
 
 
