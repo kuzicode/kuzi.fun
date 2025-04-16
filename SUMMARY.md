@@ -53,7 +53,7 @@
   * [NFT](chains-ecosystem/eth/nft-tools.md)
 * [SOL 生态](chains-ecosystem/sol/README.md)
   * [Wallet](chains-ecosystem/sol/wallet.md)
-  * [Meme](chains-ecosystem/sol/meme-eco.md)
+  * [Meme](chains-ecosystem/sol/meme.md)
   * [Defi](chains-ecosystem/sol/defi.md)
 * [其他链生态](chains-ecosystem/others/README.md)
   * [TON: 电报链](chains-ecosystem/others/ton-chain.md)

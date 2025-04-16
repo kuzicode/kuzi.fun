@@ -24,19 +24,19 @@ Gmgn: 链上交易、挂单、钱包监控、地址分析、1%费率。
 
 ## 辅助工具
 
-Memeradar: 链智网页插件，盯盘页面AI辅助分析。
+Memeradar: 链智网页插件，盯盘页面AI辅助分析，激活码免费。
 
 * [https://x.com/MemeRadar\_sol](https://x.com/MemeRadar_sol)
 
-Pumpscam: 光光网页插件，查询发过 pump 并删推的历史记录，付费。
+Pumpscam: 光光网页插件，查询发过 pump 并删推的历史记录，激活码付费。
 
 * [https://pumpscam.com/](https://pumpscam.com/)
 
-Meme Doctor：链上金狗提醒，付费激活码。
+MemeDoctor：链上金狗提醒，激活码付费。
 
 * [https://www.meme.doctor/](https://www.meme.doctor/)
 
-Memego：多链钱包监控，TG推送。
+Memego：多链钱包监控，TG推送，免费。
 
 * [https://memego.ai/](https://memego.ai/)
 
