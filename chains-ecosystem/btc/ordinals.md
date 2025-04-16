@@ -2,7 +2,7 @@
 description: BRC20 / Ordinals协议
 ---
 
-# Ordinals 铭文
+# Ordinals
 
 ### 交易市场
 
@@ -22,8 +22,9 @@ MagicEden: [https://wallet.magiceden.io/](https://wallet.magiceden.io/)
 
 ### Mint工具
 
+MCT: [https://mct.xyz/btc/ordinals](https://mct.xyz/btc/ordinals)
+
 Unisat: [https://unisat.io/inscribe](https://unisat.io/inscribe)
 
-OKX: [https://www.okx.com/zh-hans/web3/marketplace/ordinals/inscribing](https://www.okx.com/zh-hans/web3/marketplace/ordinals/inscribing)
+OKX: [https://web3.okx.com/zh-hans/inscription/ordinals/inscribing](https://web3.okx.com/zh-hans/inscription/ordinals/inscribing)
 
-Abot: [https://www.nftsniper.club/btc/inscribe](https://www.nftsniper.club/btc/inscribe)&#x20;

@@ -2,7 +2,7 @@
 description: 符文生态的工具和交易市场
 ---
 
-# Runes 符文
+# Runes
 
 ### 市场数据看板
 
@@ -20,13 +20,13 @@ Unisat: [https://unisat.io/runes/market](https://unisat.io/runes/market)
 
 ### Inscribe Tool：第三方代打工具
 
-Ybot: 限时免代打费的符文bot，看板 + 蚀刻 + 加速，但要传入私钥，新建Mint小号来用
+MCT: 看板 + 蚀刻 + 加速，但要传入私钥，新建Mint小号来用
+
+[https://mct.xyz/btc/runes/inscribe](https://mct.xyz/btc/runes/inscribe)
+
+Ybot: 看板 + 蚀刻 + 加速，但要传入私钥，新建Mint小号来用
 
 [https://ybot.io/](https://ybot.io/)
-
-Abot: 个人在用的，功能最全的中文链上bot，蚀刻+加速，有代打费
-
-[https://www.nftsniper.club/btc/inscribe](https://www.nftsniper.club/btc/inscribe)
 
 Satosea: 很好用的看板 + 蚀刻 + 加速工具
 
@@ -46,7 +46,7 @@ Dot Swap: 符文蚀刻 + 加速
 
 OKX Web3&#x20;
 
-[https://www.okx.com/zh-hans/web3/marketplace/runes/etch](https://www.okx.com/zh-hans/web3/marketplace/runes/etch)
+[https://web3.okx.com/zh-hans/inscription/runes/etch](https://web3.okx.com/zh-hans/inscription/runes/etch)
 
 
 

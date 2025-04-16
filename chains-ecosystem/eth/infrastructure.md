@@ -1,6 +1,14 @@
-# Wallet
+# 基建
 
-## Web3 Wallets
+## 相关链接
+
+官网：[https://ethereum.org/](https://ethereum.org/zh/)
+
+白皮书：[https://ethereum.org/zh/whitepaper/](https://ethereum.org/zh/whitepaper/)
+
+区块链浏览器 Etherscan: [https://etherscan.io/](https://etherscan.io/)
+
+## 钱包
 
 OKX：多链钱包，目前体验最好。
 
