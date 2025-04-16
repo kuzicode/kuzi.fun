@@ -6,7 +6,8 @@
 
 ## 🔥 近期正在玩 <a href="#cooking" id="cooking"></a>
 
-* [🚀 投研笔记存档](cooking/achieve/README.md)
+* [20250416: LP为主, 链上为辅](cooking/20250416-note.md)
+* [加密笔记存档](cooking/achieve/README.md)
   * [20250107: 理财套利机会](cooking/20250107-note.md)
   * [20240911: Linux跑FB的CAT20](cooking/achieve/cat-protocol.md)
   * [20240828: DeFi 生态近期玩法](cooking/achieve/defi-cooking.md)
@@ -14,7 +15,7 @@
 
 ***
 
-* [🤔 学习复盘存档](learn-review/README.md)
+* [学习复盘存档](learn-review/README.md)
   * [个人复盘日记](learn-review/reviewformyslf.md)
   * [Meme叙事分析](learn-review/meme-story-analysis.md)
   * [猫群交易理论](learn-review/lasercat-trade.md)
@@ -39,7 +40,7 @@
 ## 链板块生态 <a href="#chains-ecosystem" id="chains-ecosystem"></a>
 
 * [Bitcoin](chains-ecosystem/btc/README.md)
-  * [基建](chains-ecosystem/btc/infrastructure.md)
+  * [基建](chains-ecosystem/btc/wallet.md)
   * [Runes](chains-ecosystem/btc/runes.md)
   * [Ordinals](chains-ecosystem/btc/ordinals.md)
   * [Atomicals](chains-ecosystem/btc/atomicals/README.md)
@@ -47,12 +48,12 @@
     * [Linux/Mac下挖NFT和Realm](chains-ecosystem/btc/atomicals/linux-mac-mint-nft.md)
     * [一些价值探讨备份.20231117](chains-ecosystem/btc/atomicals/learn-20231117.md)
 * [Ethereum](chains-ecosystem/eth/README.md)
-  * [基建](chains-ecosystem/eth/infrastructure.md)
+  * [基建](chains-ecosystem/eth/wallet.md)
   * [Defi](chains-ecosystem/eth/defi.md)
   * [RPC Nodes](chains-ecosystem/eth/rpc-node.md)
   * [NFT](chains-ecosystem/eth/nft-tools.md)
 * [Solana](chains-ecosystem/sol/README.md)
-  * [基建](chains-ecosystem/sol/infrastructure.md)
+  * [基建](chains-ecosystem/sol/wallet.md)
   * [Meme](chains-ecosystem/sol/meme.md)
   * [Defi](chains-ecosystem/sol/defi.md)
 * [其他链生态](chains-ecosystem/others/README.md)

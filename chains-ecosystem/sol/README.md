@@ -1,9 +1,9 @@
 ---
 description: 不止于土狗大赌场，Solana在Defi/AI/Depin等等创新领域正在发热。
-icon: s
+icon: jxl
 ---
 
-# SOL 生态
+# Solana
 
 见子页面。
 
