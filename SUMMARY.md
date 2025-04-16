@@ -31,6 +31,11 @@
   * [Meme币交易工具普及](tools-hub/quick-join-crypto/be-a-meme-degen.md)
   * [NFT新人百宝箱](tools-hub/quick-join-crypto/how-to-be-nfts-degen-eth.md)
 
+***
+
+* [Crypto 基础理论](crypto-base/README.md)
+  * [比特币：交易与记账机制](crypto-base/bitcoin-work.md)
+
 ## 链板块生态 <a href="#chains-ecosystem" id="chains-ecosystem"></a>
 
 * [BTC 生态](chains-ecosystem/btc/README.md)
