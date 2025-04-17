@@ -35,6 +35,7 @@
 * [Crypto 基础理论](crypto-base/README.md)
   * [空投与撸毛](crypto-base/what-is-airdrop.md)
   * [比特币：交易与记账机制](crypto-base/how-bitcoin-work.md)
+  * [为什么要买BTC？](crypto-base/why-bitcoin.md)
   * [理解加密货币](crypto-base/what-is-crypto.md)
 
 ## 链板块生态 <a href="#chains-ecosystem" id="chains-ecosystem"></a>
