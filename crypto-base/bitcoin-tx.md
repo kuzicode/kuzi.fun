@@ -8,7 +8,7 @@ description: 用银行转账的例子来类比，大K 给 小K 转账 0.001 BTC 
 
 大K 打开他的比特币钱包，输入 小K 的比特币收款地址（类似于银行账户号码），输入转账金额 0.001 BTC 并发起交易。
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="185"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="185"><figcaption></figcaption></figure>
 
 钱包会自动从 大K 拥有的比特币余额中选择足够的余额支付给 小K，并加上一笔小额手续费。
 
