@@ -8,5 +8,5 @@
 * 互助盘 - 资金池型：演变为赌场（如 PumpdotFun、Crash Games、JLP/GLP池）
 * 拆分型- 小马拉大车型：演变为另类资产市场（如 泡泡马特、BTC 铭文、NFT、ICO），发行高风险高回报的小马，让韭菜去赌马；拉动大车后，然后在高流动性的大车上出货
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
