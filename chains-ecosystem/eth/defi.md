@@ -1,5 +1,5 @@
 ---
-description: 去中心化金融，ETH最后的护城河。
+description: 去中心化金融
 ---
 
 # Defi

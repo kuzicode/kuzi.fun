@@ -1,29 +1,27 @@
-# 💫 DeFi 工具
+# 💫 数据分析
 
-### 大盘数据分析
+### 市场(含Defi)数据分析
 
 * 代币综合信息：[https://sosovalue.xyz/](https://sosovalue.xyz/)
+* 各链运行数据：[https://app.artemisanalytics.com/](https://app.artemisanalytics.com/home)
+* 全链Staking分析：[https://app.artemisanalytics.com/](https://app.artemisanalytics.com/home)
+* 稳定币数据：[https://stablecoins.wtf/](https://stablecoins.wtf/)
 * Defi市场数据：[https://defillama.com/](https://defillama.com/)
-* 代币解锁信息：[https://tokenomist.ai/](https://tokenomist.ai/)
+* ETH 机构/项目持仓：[https://www.strategicethreserve.xyz/](https://www.strategicethreserve.xyz/)
+* ETH PoS 数据：[https://ultrasound.money/](https://ultrasound.money/)
 * 市场指标分析：[http://glassnode.com/](http://glassnode.com/)
 * 合约清算地图：[https://www.coinglass.com/zh/pro/futures/LiquidationMap](https://www.coinglass.com/zh/pro/futures/LiquidationMap)
 
-### 钱包分析数据
+### 钱包分析
 
 * 链上地址追踪：[http://arkhamintelligence.com/](http://arkhamintelligence.com/https://debank.com/https://sosovalue.xyz/assets/etf/us-btc-spot)
 * 钱包数据分析（EVM）：[https://debank.com/](http://arkhamintelligence.com/https://debank.com/https://sosovalue.xyz/assets/etf/us-btc-spot)
 * 钱包数据分析（SOL）：[https://portfolio.jup.ag/](https://portfolio.jup.ag/)
 
-### 项目融资情况
+### 项目分析
 
-* [http://rootdata.com/](http://rootdata.com/http://icoanalytics.org/https://cryptorank.io/funds)
-* [http://icoanalytics.org/](http://icoanalytics.org/)
-* [https://cryptorank.io/funds](https://cryptorank.io/funds)
-
-### 链上工具
-
-* 小飞碟 - 跨链桥 ：[https://app.orbiter.finance/](https://app.orbiter.finance/)
-* OKX Web3 - 多链聚合器 : [https://web3.okx.com/zh-hans/dex-swap](https://web3.okx.com/zh-hans/dex-swap)
+* 融资情况：[http://rootdata.com/](http://rootdata.com/http://icoanalytics.org/https://cryptorank.io/funds)
+* 代币解锁：[https://tokenomist.ai/](https://tokenomist.ai/)
 
 
 

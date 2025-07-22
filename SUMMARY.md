@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 * [⚡ 链上交易：Axiom, Gmgn](trade-bots.md)
-* [💫 DeFi 工具](tools-hub/web3tools/tools.md)
+* [💫 数据分析](tools-hub/web3tools/tools.md)
 
 ## 🔖 写点新鲜的 <a href="#cooking" id="cooking"></a>
 

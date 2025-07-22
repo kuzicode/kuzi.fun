@@ -1,25 +1,14 @@
 ---
 icon: volume-low
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 简介
 
 ### Kuzi
 
-<div align="left"><figure><img src=".gitbook/assets/5516.jpg" alt="Pudgy#5516" width="188"><figcaption><p>Kumata Hong --- 一颗韭菜</p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/Yellow_Team.png" alt="Kumata Hong" width="188"><figcaption></figcaption></figure></div>
 
-Bitcoin 信仰者，Crypto 研究员。&#x20;
+Bitcoin 信仰者，Crypto 研究员，韭菜。&#x20;
 
 
 
